@@ -1,3 +1,10 @@
+<!-- Typing Animation -->
+<h1 align="center">Hi 👋, I'm Shrikant Ghayal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Frontend+Focused+Engineer;AI+Enthusiast;Building+Real+World+Projects" />
+</p>
+
 # About Me:
 I’m currently working on improving my DevOps skills  <br>I’m looking to collaborate on DevOps & automation projects  <br>I’m looking for help with Kubernetes & CI/CD pipelines  <br>I’m currently learning Docker, Jenkins, Kubernetes, and Linux  <br>Ask me about DevOps basics, CI/CD, and Linux commands  <br>Fun fact: I break things to learn how they work <br>
 
