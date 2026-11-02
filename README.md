@@ -6,7 +6,9 @@
 </p>
 
 # About Me:
-I’m currently working on improving my DevOps skills  <br>I’m looking to collaborate on DevOps & automation projects  <br>I’m looking for help with Kubernetes & CI/CD pipelines  <br>I’m currently learning Docker, Jenkins, Kubernetes, and Linux  <br>Ask me about DevOps basics, CI/CD, and Linux commands  <br>Fun fact: I break things to learn how they work <br>
+## 👨‍💻 About Me
+
+Hi, I'm Shrikant Ghayal, an Associate Engineer – DevOps with 1.7+ years of experience in cloud infrastructure, CI/CD automation, and deployment management. I have hands-on experience with AWS, Docker, Kubernetes, Jenkins, GitHub Actions, and Terraform. I specialize in automating deployments, managing cloud infrastructure, monitoring system performance, and troubleshooting production issues. I am passionate about building scalable, secure, and reliable cloud-native solutions while continuously exploring DevSecOps, MLOps, and modern automation technologies. <br>
 
 
 ##  Socials:
